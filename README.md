@@ -3,7 +3,7 @@
 I am a Software Engineer with full-stack development experience, but I love the arts and tend to enjoy the front-end a bit more. I have recently ganined these new skills and am ready to take them to the next level with real world, user-friendly implementation.
 
 <hr>
-<h4>📫 How to reach me/get to know me:</h4>
+<h4>📫 Connect with me:</h4>
 <div>
 <a href="mailto: priscilla.rojas925@gmail.com"><img src="https://img.icons8.com/nolan/40/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/priscillaro/"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
