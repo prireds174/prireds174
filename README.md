@@ -1,6 +1,10 @@
 <h1 align="center"> Hi there, I'm Priscilla! 👾 </h1>
 
+<h3>About me 💃</h3>
+
+<h5>
 I am a Software Engineer with full-stack development experience, but I love the arts and tend to enjoy the front-end a bit more. I have recently ganined these new skills and am ready to take them to the next level with real world, user-friendly implementation.
+</h5>
 
 <hr>
 <h4>📫 Connect with me:</h4>
