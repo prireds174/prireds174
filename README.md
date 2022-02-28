@@ -33,7 +33,7 @@ I am a Software Engineer with full-stack development experience, but I love the 
 
 <hr>
 
-<a href="https://github.com/SkipPharaoh">
+<a href="https://github.com/prireds174">
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prireds174&layout=compact&theme=react" alt="Top languages" />
 </a>
 
