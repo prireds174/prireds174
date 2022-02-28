@@ -34,10 +34,10 @@ I am a Software Engineer with full-stack development experience, but I love the 
 <hr>
 
 <a href="https://github.com/SkipPharaoh">
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prireds174&layout=compact&theme=react" alt="Top languages" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prireds174&layout=compact&theme=react" alt="Top languages" />
 </a>
 
-<br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prireds174&show_icons=true&theme=react)
  
