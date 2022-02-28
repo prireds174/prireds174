@@ -1,7 +1,4 @@
-
-
-<h1 align="center"> Hola, I'm Priscilla! 👾 </h1>
-
+<img alt="Header" src="assets/header6.gif"></img>
 
 
 <h3>About me 💃</h3>
