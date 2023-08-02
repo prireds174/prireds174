@@ -4,7 +4,7 @@
 <h3>About me 💃</h3>
 
 <h5>
-I am a Software Engineer with full-stack development experience, but I love the arts and tend to enjoy the front-end a bit more. I have recently gained these new skills and am ready to take them to the next level with real world, user-friendly implementation.
+I am a Software Engineer with full-stack development experience, but I love the arts and tend to favor the front-end a bit more. I enjoy making things colorful and user-friendly.
 </h5>
 
 <hr>
